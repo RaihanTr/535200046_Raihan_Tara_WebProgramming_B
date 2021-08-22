@@ -1,7 +1,4 @@
-5W 1H
-When
-Who
-Why
-Where
-What 
-How
+kita akan membuat toko online store yang menyediakan segala kebutuhan, kita membuat pembeli dapat mencari barang dengan mudah 
+dengan pemilihan barang yang spesifik
+
+kita juga menerima pesanan produk agar pelanggan bisa mendapatkan produk tanpa harus keluar rumah
