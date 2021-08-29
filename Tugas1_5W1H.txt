@@ -1,4 +1,26 @@
-kita akan membuat toko online store yang menyediakan segala kebutuhan, kita membuat pembeli dapat mencari barang dengan mudah 
-dengan pemilihan barang yang spesifik
+1. What
+    Website yang menyediakan informasi mengenai tempat-tempat wisata
+    serta destinasi kuliner yang terkenal di suatu daerah yang berada 
+    di Indonesia.
 
-kita juga menerima pesanan produk agar pelanggan bisa mendapatkan produk tanpa harus keluar rumah
+2. Who
+    Website ini ditujukan untuk warga Indonesia maupun warga Negara Asing
+    yang ingin berkunjung atau berwisata untuk melihat keindahan negara Indonesia.
+
+3. When
+    Website akan selalu melakukan update untuk menambah destinasi wisata baru
+    atau yang sedang terkenal untuk menjaga kerelevan-an destinasi wisata yang
+    direkomendasikan.
+
+4. Where
+    Website akan dipromosikan di semua media sosial yang tersedia, aplikasi
+    pemesanan tiket pesawat, dan dapat diakses melalui pencarian kata kunci
+    dari website search engine seperti google, bing, dll.
+
+5. Why
+    Website diharapkan dapat menarik perhatian wisatawan dari luar maupun dalam
+    negeri untuk berkunjung ke Indonesia, serta mempromosikan keindahan Negeri Indonesia.
+
+6. How
+    Menggunakan HTML, CSS, JavaScript, dan BootStrap untuk membuat website 
+    yang menarik, mudah untuk diakses, serta mudah untuk digunakan untuk mencapai tujuannya..
