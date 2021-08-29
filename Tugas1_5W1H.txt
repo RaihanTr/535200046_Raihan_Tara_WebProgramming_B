@@ -23,4 +23,4 @@
 
 6. How
     Menggunakan HTML, CSS, JavaScript, dan BootStrap untuk membuat website 
-    yang menarik, mudah untuk diakses, serta mudah untuk digunakan untuk mencapai tujuannya..
+    yang menarik, mudah untuk diakses, serta mudah untuk digunakan untuk mencapai tujuannya.
