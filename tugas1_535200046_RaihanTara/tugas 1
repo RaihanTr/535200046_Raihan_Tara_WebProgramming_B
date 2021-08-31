@@ -1,0 +1,891 @@
+1.1.2 body
+<html>
+
+<body>
+    <h1>This is the Main Heading</h1>
+    <p>This text might be an introduction to the rest of
+        the page. And if the page is a long one it might
+        be split up into several sub-headings.
+    <p>
+    <h2>This is a Sub-Heading</h2>
+    <p>Many long articles have sub-headings so to help
+        you follow the structure of what is being written.
+        There may even be sub-sub-headings (or lower-level
+        headings).</p>
+    <h2>Another Sub-Heading</h2>
+    <p>Here you can see another sub-heading.</p>
+</body>
+
+</html>
+
+1.2 text
+
+1.2.1 headings
+
+<html>
+
+<head>
+    <title>This is the Title of the Page</title>
+</head>
+
+<body>
+    <h1>This is the Main Heading</h1>
+    <h2>This is a Sub-Heading</h2>
+    <h3>This is a Sub-Sub-Heading</h3>
+    <h4>This is a Sub-Sub-Sub-Heading</h4>
+    <h5>This is a Sub-Sub-Sub-Sub-Heading</h5>
+    <h6>This is a Sub-Sub-Sub-Sub-Sub-Heading</h6>
+</body>
+
+</html>
+
+1.2.2 paragraph
+
+<html>
+<head>
+    <title>This is the title of the page</title>
+</head>
+<body>
+    <h1> This iS peraerorh st plec</h1>
+    <p> Locec dast" he gotor sn itetri. et egersectetec ecipassin, pitentegdp eltescses v iot ipentget uibendic hesgrevetenatis
+        et.</p>
+    <p>Aenean euismod ex x turpis, ut ut sagittis nund at. Curabitur pretium etium mauris eget et urna ultrices, id
+        egestas justo mo as eu nibh aliquam quam, faucibus lputate turpis. Nauris faucibus quam ac
+    malesuada egestas. Mauris dapibus nec odio at ver venenatis. Na ham Juctus lectus quis ultrices facilisis.</p>
+</body>
+</html>
+
+1.2.3 bold,italic,superscript,subscript
+
+<html>
+<head>
+    <title>This is the title of the page</title>
+</head>
+<body>
+    <h1> This iS peraerorh st plec</h1>
+    <p> Locec dast" he gotor sn itetri. et egersectetec ecipassin, pitentegdp eltescses v iot ipentget uibendic hesgrevetenatis
+        et.</p>
+    <p>Aenean euismod ex x turpis, ut ut sagittis nund at. Curabitur pretium etium mauris eget et urna ultrices, id
+        egestas justo mo as eu nibh aliquam quam, faucibus lputate turpis. Nauris faucibus quam ac
+    malesuada egestas. Mauris dapibus nec odio at ver venenatis. Na ham Juctus lectus quis ultrices facilisis.</p>
+</body>
+</html>
+
+1.2.4 white space, line break, horizontal rule
+
+<html>
+<body>
+    <p>This is Paragraph Sample</p>
+    <p>This is Paragraph Sample</p>
+    <p>This is Paragraph
+
+        Sample</p>
+
+    <p>This is<br />Paragraph Sample</p>
+    <hr>
+    <p>This is Paragraph Sample</p>
+
+</body>
+</html>
+
+1.3 list
+
+1.3.1 ordered list
+
+<html>
+<body>
+    <hl> Resep Rendang</n3>
+        <o1>
+            <l1>haluskan terlebih dahulu bawan ang merah dan putih, cabai, jahe dan lengkuas/1i>
+            <l1>ungkep daging sapi yan ang sudah dipotong-potong dengan bumbu yang dihaluskan, tunggu sampai beruap
+                dan daging ungkepan kering.</11>
+            <li>Masukan santan kental, merica bubuk, sereh, asam kandis, bunga pekak, daun jeruk, daun salam, garam dan
+                gula pasir, kemudian adu duk hingga merata, jangan lupa daun kunyit juga tapi sobek-sob bek terlebin h dahulu
+                i santan me , dan sedikit t mengeluarkan minyak, ak, kemudian keciikan api</1i>
+            <1i>Campurkan bahan pelengkap kedalam rendang ke remudian aduk 18g gi sampai merata</1i>
+            <l1>mpal rendang berubah w <1i-Usahakan terus di di aduk-aduk agar ar rendang tidak menempe] pad ada wajan, tungeu sampa warna
+                dan mengering</1i>
+            <li>Angkat rendang, dan siap untuk disajikan.</li>
+        </o1>
+</body>
+</html>
+
+
+1.3.2 unordered list 
+
+<html>
+<body>
+    <h1>Resep Rendang</hl>
+        <ul>
+            <li>1 kg Daging sapi pilihan, potong ukuran sesuai selera</li>
+            <li>3 buah kelapa Tua, jadikan santan kental</li>
+            <li>15 butir Bawang merah</li>
+            <li>8 siung Bawang putih</li>
+            <li>1 ons Cabai merah (kriting)</li>
+            <li>2 cm Jahe</li>
+            <li>2 cm lengkuas memarkan</li>
+            <li>1 sendok teh merica bubuk</li>
+            <li>2 batang Sereh geprek terlebih dahulu</li>
+            <li>2 biji asam kandis</li>
+            <li>2 buah Bunga pekak</li>
+            <li>3 lembar Daun jeruk</li>
+            <li>4 lembar Daun salam</li>
+            <li>1 lembar Daun kunyit</li>
+            <li>Garam</li>
+            <li>Gula pasir</li>
+        </ul>
+</body>
+</html>
+
+1.3.3 nested list
+
+<html>
+<body>
+    <h1>Resep Rendang</hl>
+        <ul>
+            <li>1 kg Daging sapi pilihan, potong ukuran sesuai selera</li>
+            <li>3 buah kelapa Tua, jadikan santan kental</li>
+            <li>Bawang
+                <ul>
+                    <li>15 butir Bawang merah</li>
+                    <li>8 siung Bawang putih</li>
+                </ul>
+            </li>
+            <li>1 ons Cabai merah (kriting)</li>
+            <li>2 cm Jahe</li>
+            <li>2 cm lengkuas memarkan</li>
+            <li>1 sendok teh merica bubuk</li>
+            <li>2 batang Sereh geprek terlebih dahulu</li>
+            <li>2 biji asam kandis</li>
+            <li>2 buah Bunga pekak</li>
+            <li>3 lembar Daun jeruk</li>
+            <li>4 lembar Daun salam</li>
+            <li>1 lembar Daun kunyit</li>
+            <li>Garam</li>
+            <li>Gula pasir</li>
+        </ul>
+</body>
+</html>
+
+1.4.1 link
+
+<html>
+<body>
+    <h1>Link</h1>
+    <a href="https://lipsum.com/">Lorem Ipsum</a>
+</body>
+</html>
+
+1.4.2 tautan ke web lain
+
+  <html>
+    <body>
+        <h1>Other Lorem Ipsum Sites</h1>
+        <ul>
+            <li><a href="https://lipsum.com/">lipsum.com</a></li>
+            <li><a href="https://loremipsum.io/">loremipsum.io</a></li>
+            <li><a href="https:/generator.lorem-ipsum.info/">generator.lorem-ipsum.info</a></li>
+        </ul>
+    </body> 
+</html>
+
+1.4.3 TAUTAN KE HALAMAN LAIN DI WEB YANG SAMA
+
+<html>
+<body>
+    <h1>Web Programming</h1>
+    <ul>
+        <li>Structure
+            <ul>
+                <li><a href="01.01. Structure.html">Structure</a></li>
+                <li><a href="01.02. Structure Complete.html">Structre - Complete</a></li>
+            </ul>
+        </li>
+
+        <li>Text
+            <ul>
+                <li><a href="02.01. Headings.html">headings</a></li>
+                <li><a href="02.02. Paragraph.html">Paragraph</a> </li>
+                <li><a href="02.03. Bold, Italic, Superscript, Subscript.html">Bold, Italic, Superscript, Subscript</a></li>
+                <li><a href="02.04. White Space, Line Break, Horizontal Rule.html">White Space, Line Break, Horizontal 
+                        Rule</a></li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>
+
+1.4.4	STRUKTUR DIREKTORI
+
+1.4.5	RELATIVE URLS
+
+<html>
+<body>
+    <h1>Relative URLs</h1>
+
+    <h2>Same Folder</h2>
+    <a href="04.05. Landing.html">Landing</a>
+
+    <h2>Child Folder</h2> 
+    <a href="04.05. Child/04.05. Child Landing.html">Child Landing</a>
+
+    <h2>Grand Child Folder</h2>
+    <a href="04.05. Child/04.05. Grandchild/04.05. Grandchild Landing.html">Grandchild Landing</a>
+    
+    <h2>Parent Folder</h2> 
+    <a href="../04.01. Link.html">Link</a>
+        
+    <h2>Grandparent Folder</h2>
+    <a href=".././Index.html">Index</a>
+</body> 
+</html>
+
+1.4.6	TAUTAN EMAIL
+
+<html>
+    <body>
+        <h1>Mailto</h1>
+        <a href="mailto:fundroo.535200074@stu.untar.ac.id">Kirim Email ke : Fundroo Orlando</a>
+    </body>
+</html>
+
+1.4.7	MEMBUKA TAUTAN DI JENDELA BARU
+
+<html>
+    <body>
+        <h1>Click link below</h1>
+
+        <a href="https://lipsum.com" target="_blank">lipsum.com</a>
+    </body>
+</html>
+
+1.4.8   LINK TO ID
+
+<html>
+
+<body>
+    <h1>Link to Specific Id</h1>
+
+    <h1 id="top">Film-Making Terms</h1>
+    <a href="#arc_shot">Arc Shot</a><br>
+    <a href="#interlude">Interlude</a><br>
+    <a href="#prologue">Prologue</a><br><br>
+
+    <h2 id="arc shot">Arc Shot</h2>
+    <p>A shot in which the subject is photographed by an 
+        encircling or moving camera</p>
+
+    <h2 id="interlude">Interlude</h2>
+    <p>A brief, intervening film scene or sequence, not 
+        specifically tied to the plot, that appears 
+        within a film</p>
+
+    <h2 id="prologue">Prologue</h2>
+    <p>A speech, preface, introduction, or brief scene 
+        preceding the the main action or plot of a film;
+        contrast to epilogue</p>
+
+    <p><a href="#top">Top</a></p>
+    
+</body>
+
+</html>
+
+1.5	GAMBAR
+
+1.5.1	Image
+
+<html>
+<body>
+    <h1>Images</h1>
+    <img src="Images/Product/windmill.jpg" 
+    alt="Wind Turbine"
+    title="Wind turbine in France.">
+</body>
+</html>
+
+1.5.2	WIDTH & HEIGHT
+
+<html>
+<body>
+    <h1>Images</h1>
+    <img src="Images/Product/windmill.jpg" 
+        alt="Wind Turbine"
+        title="Wind turbine in France."
+        width="250px"
+        height="300px">
+</body>
+</html>
+
+1.5.3	FIGURE
+<html>
+<body>
+    <h1>Figure</hi>
+        
+    <figure>
+     
+        <img src="Images/Product/windmill.jpg" alt="Wind Turbine" title=" Wind turbine in France." width="350px">
+
+        <figcaption>In 2017 France reached a total of 13,759 MW installed wind power capacity placing France 
+            at that time as the world's eighth largest wind power nation by installed capacity, behind 
+            the United Kingdom and Canada and ahead of Italy and Brazil.</figcaption>
+        
+    </figure>
+
+</body>
+</html>
+
+
+1.6	TABLE
+
+1.6.1	TR, TD
+
+<html>
+
+<body>
+    <h1>Table</h1>
+    <table>
+        <tr>
+            <td>15</td>
+            <td>15</td>
+            <td>30</td>
+        </tr>
+        <tr>
+            <td>45</td>
+            <td>60</td>
+            <td>45</td>
+        </tr>
+        <tr>
+            <td>60</td>
+            <td>90</td>
+            <td>90</td>
+        </tr>
+    </table>
+    
+</body>
+
+</html>
+
+1.6.2	TH
+
+<html>
+
+<body>
+    <h1>Table</h1>
+
+    <table>
+        <tr>
+            <th></th>
+            <th scope="col">Saturday</th>
+            <th scope="col">Sunday</th>
+        </tr>
+        <tr>
+            <th scope="row">Tickets sold:</th>
+            <td>120</td>
+            <td>135</td>
+        </tr>
+        <tr>
+            <th scope="row">Total sales:</th>
+            <td>IDR60OK</td>
+            <td>IDR675K</td>
+        </tr>
+    </table>
+    
+</body>
+
+</html>
+
+1.6.3	COLUMN SPAN
+
+<html>
+
+<body>
+    <h1>Table</h1>
+    <table>
+        <tr>
+            <th></th>
+            <th>9am</th>
+            <th>10am</th>
+            <th>1lam</th>
+            <th>12am</th>
+        </tr>
+        <tr>
+            <th>Monday</th>
+            <td colspan="2">Geography</td>
+            <td>Math</td>
+            <td>Art</td>
+        </tr>
+        <tr>
+            <th>Tuesday</th>
+            <td colspan="3">Gym</td>
+            <td>Home Ec</td>
+        </tr>
+    </table>
+    
+</body>
+
+</html>
+
+1.6.4	ROW SPAN
+
+<html>
+
+<body>
+    <h1>Table</h1>
+    <table>
+        <tr>
+            <th></th>
+            <th>ABC</th>
+            <th>BBC</th>
+            <th>CNN</th>
+        </tr>
+        <tr>
+            <th>6pm - 7pm</th>
+            <td rowspan="2">Movie</td>
+            <td>Comedy</td>
+            <td>News</td>
+        </tr>
+        <tr>
+            <th>7pm - 8pm</th>
+            <td>Sport</td>
+            <td>Current Affairs</td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
+
+1.6.5	LONG TABLE
+
+<html>
+
+<body>
+    <h1>Table</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Income</th>
+                <th>Expenditure</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>1st January</th>
+                <td>250</td>
+                <td>36</td>
+            </tr>
+            <tr>
+                <th>2nd January</th>
+                <td>285</td>
+                <td>48</td>
+            </tr>
+            <!-- additional rows as above -->
+            <tr>
+                <th>31st January</th>
+                <td>129</td>
+                <td>64</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td></td>
+                <td>7824</td>
+                <td>1241</td>
+            </tr>
+        </tfoot>
+    </table>
+
+</body>
+
+</html>
+
+1.7	FORM
+
+1.7.1	ACTION
+
+<html>
+<body>
+    <h1>Form</h1>
+    <form action="http://www.example.com/subscribe.php" method="get">
+        <p>This is where the form controls will appear.
+        </p>
+    </form>
+</body>    
+</html>
+
+1.7.2	TEXT INPUT, PASSWORD INPUT
+
+<html>
+
+<body>
+    <h1>Form</h1>
+    <form action="http://www.example.com/login.php">
+        <p>Username:
+            <input type="text" name="username" maxlength="30">
+            <input type="password" name="password">
+        </p>
+    </form>
+</body>
+
+</html>
+
+1.7.3	TEXT AREA
+
+<html>
+
+<body>
+    <h1>Form</h1>
+        <form action="http://www.example.com/comments.php">
+            <p>What did you think of this gig?</p>
+            <textarea name="comments" cols="20" rows="4" placeholder="Enter your comments..."></textarea>
+        </form>
+
+</body>
+    
+</html>
+
+1.7.4	RADIO BUTTON, CHECK BOX
+
+<html>
+
+<body>
+    <h1>Form</h1>
+    <form action="http://www.example.com/profile.php">
+
+        <p>Please select your favorite genre: 
+            <br />
+            <input type="radio" name="genre" value="rock" checked="checked" /> Rock
+            <input type="radio" name="genre" value="pop" /> 
+            Pop
+            <input type="radio" name="genre" value="jazz" /> 
+            Jazz
+        </p>
+
+        <p>Please select your favorite music service(s):
+            <br />
+            <input type="checkbox" name="service" value="itunes" checked="checked" /> iTunes
+            <input type="checkbox" name="service" value="lastfm" /> Last.fm
+            <input type="checkbox" name="service" value="spotify"/> Spotify
+        </p>
+
+    </form>
+
+</body>
+
+</html>
+
+1.7.5	DROP DOWN LIST BOX
+
+<html>
+
+<body>
+    <h1>Form</h1>
+    <form action="http://www.example.com/profile.php">
+        <p>What device do you listen to music on?</p> 
+        <select name="devices">
+            <option value="ipod">iPod</option>
+            <option value="radio">Radio</option>
+            <option value="computer">Computer</option>
+        </select>
+    </form>
+    
+</body>
+
+</html>
+
+1.7.6	MULTIPLE SELECT BOX
+
+<html>
+
+<body>
+    <h1>Form</h1>
+
+    <form action="http://www.example.com/profile.php">
+        <p>Do you play any of the following instruments? 
+            (You can select more than one option by holding 
+            down control on a PC or command key on a Mac 
+            while selecting different options.)</p> 
+        <select name%="instruments" size="3" multiple="multiple">
+            <option value="guitar" selected="selected"> 
+                Guitar</option>
+            <option value%="drums">Drums</option>
+            <option value="keyboard" selected="selěcted">Keyboard</option>
+            <option value="bass">Bass</option>
+        </select>
+    </form>
+
+</body>
+
+</html>
+
+1.7.7	FILE INPUT BOX
+<html>
+
+<body>
+    <h1>Form</h1>
+    
+    <form action="http://www.example.com/upload.php" method="post">
+        <p>Upload your song in MP3 format:</p>
+        <input type="file" name="user-song"><br>
+        <input type="submit" value="Upload">
+    </form>
+
+</body>
+
+</html>
+
+1.7.8	SUBMIT BUTTON
+
+<html>
+
+<body>
+    <h1>Form</h1>
+        
+    <form action="http://www.example.com/subscribe.php">
+            <p>Subscribe to our email list:</p>
+            <input type="text" name="email" />
+            <input type="submit" name="subscribe" value="Subscribe" />
+        </form>
+
+</body>
+    
+</html>
+
+1.7.9	IMAGE BUTTON
+
+<html>
+
+<body>
+    <h1>Form</h1>
+
+    <form action="http://www.example.com/subscribe.php">
+        <p>Subscribe to our email list:</p>
+        <input type="text" name="email" />
+        <input type="image" src="images/subscribe.jpg" width="100" height="20" />
+    </form>
+
+</body>
+
+</html>
+
+1.7.10	HIDDEN FIELD
+
+<html>
+
+<body>
+    <h1>Form</h1>
+
+    <form action="http://www..example.com/add.php">
+        <button><img src="images/add.gif" alt="add" width="10" height="10" /> Add</button>
+        <input type="hidden" name="bookmark" value="lyrics" />
+    </form>
+
+</body>
+
+</html>
+
+1.7.11	LABEL
+
+<html>
+
+<body>
+    <h1>Form</h1>
+
+    <form action="http://www.example.com/add.php">
+        <label>Age: <input type="text" name="age" /></label>
+        <br />
+        Gender:
+        <input id="female" type="radio" name="gender" value="f">
+        <label for="female">Female</label>
+        <input id="male" type="radio" name="gender" value="m"> 
+        <label for="male">Male</label>
+    </form>
+
+</body>
+
+</html>
+
+1.7.12	GROUPING FORM
+
+<html>
+
+<body>
+    <h1>Form</hl>
+
+        <form action="http://www.example.com/add.php">
+            <fieldset>
+                <legend>Contact details</legend>
+                <label>Email:<br />
+                    <input type="text" name="email" /></label><br />
+                <label>Mobile:<br>
+                    <input type="text" name="mobile" /></label><br />
+                <label>Telephone:<br>
+                    <input type="text" name="telephone" /><label>
+            </fieldset>
+        </form>
+
+</body>
+
+</html>
+
+1.7.13	FORM VALIDATION
+
+<html>
+
+<body>
+    <h1>Form</hl>
+
+        <form action="http://www.example.com/login/" method="post">
+            <label for="username">Username:</label>
+            <input type="text" name="username" required="required"></title><br />
+            <label for="password">Password:</label>
+            <input type="password" name="password" required="required" />
+            <input type="submit" value="Submit" />
+        </form>
+
+</body>
+
+</html>
+
+1.7.14	DATE, EMAIL, URL INPUT
+
+<html>
+
+<body>
+    <h1>Form</h1>
+
+    <form action="http://www.example.com/bookings/" method="post">
+
+        <label for="depart">Departure date:</label>
+        <input type="date" name="depart" /><br><br>
+
+        <label for="email">Please enter your email address:</label>
+        <input type="email" name="email" /><br><br>
+
+        <label for="website">Please enter your website address:</label>
+        <input type="url" name="website" /><br><br> 
+        <input type="submit" value="Submit" />
+
+    </form>
+
+</body>
+
+</html>
+
+1.8	EXTRA MARKUP
+
+1.8	EXTRA MARKUP
+
+1.8.2	COMMENT
+
+<html>
+
+<body>
+
+    <!-- start of introduction -->
+    <h1>Current Exhibitions</h1>
+    <h2>Olafur Eliasson</h2>
+    <!--end of introduction -->
+    <!-- start of main text -->
+    <p>Olafur Eliasson was born in Copenhagen, Denmark 
+        in 1967 to Icelandic parents.</p>
+    <p>He is known for sculptures and large-scale 
+        installation art employing elemental materials 
+        such as light, water, and air temperature to 
+        enhance the viewer's experience.</p>
+    <!-- end of main text -->
+    <!--
+<a href="mailLto:info@example.org">Contact</a>
+-->
+
+</body>
+    
+</html>
+
+1.8.3	DIV
+
+<html>
+
+<body>
+        
+    <div id="header">
+        <ul>
+            <li><a href="08.02. Comment.html">Comment</a></li>
+            <li><a href="08.03. Div.html">Div</a></li>
+        </ul>
+    </div><!-- end of header -->
+
+</body>
+
+</html>
+
+1.8.4	SPAN
+
+<html>
+
+<body>
+    
+    <p>Anish Kapoor won the Turner Prize in 1991 and 
+        exhibited at the <span class="gallery">Tate 
+        Modern</span> gallery in London in 2003.</p>
+
+</body>
+
+</html>
+
+1.8.5	IFRAME
+
+<html>
+
+<body>
+
+    <iframe src="http://maps.google.co.uk/maps?q=moma+new+york&amp;output=embed" 
+        width="450"
+        height="350"
+        frameborder="0"
+        scrolling="no">
+    </iframe>
+
+</body>
+
+</html>
+
+1.8.6	META
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Information About Your Pages</title>
+    <meta name="description" content="An Essay on Installation Art" />
+    <meta name="keywords" content="installation, art, opinion" />
+    <meta name="robots" content="nofollow" />
+    <meta http-equiv="author" content="Jon Duckett" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="expires" cogent="Fri, 04 Apr 2014 23:59:59 GMT" />
+</head>
+
+<body> 
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
