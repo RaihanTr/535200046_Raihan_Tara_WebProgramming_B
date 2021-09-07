@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title>8.2 Properti Clear</title>
+        <style>
+            .div1
+            {
+                float: left;
+                width: 100px;
+                height: 50px;
+                margin: 10px;
+                border: 3px solid #73AD21;
+            }
+            .div2
+            {
+                border: 1px solid red;
+            }
+            .div3
+            {
+                float: left;
+                width: 100px;
+                height: 50px;
+                margin: 10px;
+                border: 3px solid #73AD21;
+            }
+            .div4
+            {
+                border: 1px solid red;
+                clear: left;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h2>tanpa clear</h2>
+        <div class="div1">div1</div>
+        <div class="div2">Perhatikan bahwa div2 setelah div1 adalah kode HTML. Namun, karena div1 mengapung ke kiri, teks di div2 mengalir disekitar div1.</div>
+        <br><br>
+
+        <h2>dengan clear</h2>
+        <div class="div3">div3</div>
+        <div class="div4">div4 - Di sini, clear: left; memindahkan div4 ke bawah di bawah floating div3. 
+            Nilai elemen clear "left" melayang ke kiri. Anda juga dapat melakukan clear "right" dan "both".</div>
+    </body>
+</html>
