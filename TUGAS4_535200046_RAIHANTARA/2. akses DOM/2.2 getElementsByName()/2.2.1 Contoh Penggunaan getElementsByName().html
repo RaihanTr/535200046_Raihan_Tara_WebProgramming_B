@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript getElementsByName Demo</title>
+</head>
+<body>
+    <p>Please rate the Service:</p>
+    <p>
+        <input type="radio" name="rate" value="Very Poor"> Very Poor
+        <input type="radio" name="rate" value="Poor"> Poor
+        <input type="radio" name="rate" value="OK"> OK
+        <input type="radio" name="rate" value="Good"> Good
+        <input type="radio" name="rate" value="Very Good"> Very Good
+    </p>
+    <p>
+        <button id="btnRate">Submit</button>
+    </p>
+    <script>
+        var btn = document.getElementById('btnRate');
+
+        btn.addEventListener('click', () => 
+        {
+            var rates = document.getElementsByName('rate');
+            rates.forEach((rate) =>
+            {
+                alert(`You rated: ${rate.value}`);
+            })
+        });
+    </script>
+</body>
+</html>
